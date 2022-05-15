@@ -1,4 +1,4 @@
 print('Hello World!!')
 
-txt = ('HELLLOO WOOORLD')
+txt = ('HELLO WORLD!')
 print(txt)
